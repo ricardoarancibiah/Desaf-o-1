@@ -1,0 +1,89 @@
+insert into comentarios_blog values (1,"juan", "2018-03-21", 5, me gusto el tatuaje ","el diseño y el color, quede muy contenta con el resultado,3, "Juan Style)", 
+
+(2,"sofia","2018-02-23", 10, me gusto mucho el estilo de este tatuaje "," los colores se ven muy naturales y el diseño me encanto, 7, "Maru Tats"),
+
+(3, "rodrigo", "2018-01-24", 9, quede muy conforme con el tatuaje","" esta bien detallado y el tamaño es perfecto para la posicion de cuerpo en la que esta, 8, "kalicho Mendoza"),
+
+(4, "pedro", "2018-05-06", 7, muy buen trabajo realizado en una zona complicada del cuerpo "," los colores estan bien tratados al igual que los bordes, 3, "Guillermo Redial"),
+
+(5,"laura", "2018-07-22", 8, un trabajado pequeño pero muy bien realizado cuidando los detalles de todo el tatuaje, 2, "Grumpy"), 
+
+(6,"roberto", "2018-06-23", 9, muy contento con mi tatuaje esta muy bien trabajado el color y las sombras, 6, "Raul RapB"), 
+
+(7,"jose", "2018-04-27", 10, me encanto mi tatuaje retrara totalmente la idea que tenia en mi cabeza seco el tatuador, 1, "Asunboy"),
+
+(8, "maca", "2018-08-01", 8, muy buen trabajo realizado por Ricadro es un tatuaje simple pero muy bien hecho, 4, "Ricardo Osorio"),
+
+(9,"benja", "2018-03-19", 10, contentisimo con mi tatuaje los colores y detalles son realmente increible, 2, "Grumpy"),
+
+(10, "paula", "2018-07-15", 8, me encanta el enfoque y el estilo de este tatuaje uno de los mas lindos que he visto, 8, "Kalicho Mendoza")
+
+insert into horas values(1, 02-05-18 14:30:00, "Maru Tats", NULL, NULL, NULL, NULL, NULL),
+
+(2, 03-05-18 15:00:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(3, 10-05-18 15:00:00, "Kalicho Mendoza", NULL, NULL, NULL, NULL, NULL),
+
+(4, 02-05-18 18:30:00, "Guillermo Redial", NULL, NULL, NULL, NULL, NULL),
+
+(5, 23-05-18 14:30:00, "Grumpy", NULL, NULL, NULL, NULL, NULL),
+
+(6, 23-05-18 09:30:00, "Raul RapB", NULL, NULL, NULL, NULL, NULL),
+
+(7, 03-05-18 10:00:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(8, 10-05-18 10:30:00, "Ricardo Osorio", NULL, NULL, NULL, NULL, NULL),
+
+(9, 14-05-18 09:30:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(10, 14-05-18 15:30:00, "Juan Style", NULL, NULL, NULL, NULL, NULL)(11, 01-05-18 14:30:00, "Maru Tats", NULL, NULL, NULL, NULL, NULL),
+
+(12, 04-05-18 15:00:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(13, 05-05-18 15:00:00, "Kalicho Mendoza", NULL, NULL, NULL, NULL, NULL),
+
+(14, 06-05-18 18:30:00, "Guillermo Redial", NULL, NULL, NULL, NULL, NULL),
+
+(15, 07-05-18 14:30:00, "Grumpy", NULL, NULL, NULL, NULL, NULL),
+
+(16, 08-05-18 09:30:00, "Raul RapB", NULL, NULL, NULL, NULL, NULL),
+
+(17, 09-05-18 10:00:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(18, 11-05-18 10:30:00, "Ricardo Osorio", NULL, NULL, NULL, NULL, NULL),
+
+(19, 12-05-18 09:30:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(20, 13-05-18 15:30:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(21, 15-05-18 15:00:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(22, 16-05-18 15:00:00, "Kalicho Mendoza", NULL, NULL, NULL, NULL, NULL),
+
+(23, 17-05-18 18:30:00, "Guillermo Redial", NULL, NULL, NULL, NULL, NULL),
+
+(24, 18-05-18 14:30:00, "Grumpy", NULL, NULL, NULL, NULL, NULL),
+
+(25, 19-05-18 09:30:00, "Raul RapB", NULL, NULL, NULL, NULL, NULL),
+
+(26, 20-05-18 10:00:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(27, 21-05-18 10:30:00, "Ricardo Osorio", NULL, NULL, NULL, NULL, NULL),
+
+(28, 22-05-18 09:30:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(29, 24-05-18 15:30:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(30, 25-05-18 15:00:00, "Juan Style", NULL, NULL, NULL, NULL, NULL),
+
+(31, 26-05-18 15:00:00, "Kalicho Mendoza", NULL, NULL, NULL, NULL, NULL),
+
+(32, 27-05-18 18:30:00, "Guillermo Redial", NULL, NULL, NULL, NULL, NULL),
+
+(33, 28-05-18 14:30:00, "Grumpy", NULL, NULL, NULL, NULL, NULL),
+
+(34, 29-05-18 09:30:00, "Raul RapB", NULL, NULL, NULL, NULL, NULL),
+
+(35, 30-05-18 10:00:00, "Asunboy", NULL, NULL, NULL, NULL, NULL),
+
+(36, 31-05-18 10:30:00, "Ricardo Osorio", NULL, NULL, NULL, NULL, NULL)
